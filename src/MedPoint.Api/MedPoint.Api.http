@@ -1,0 +1,6 @@
+@MedPoint.Api_HostAddress = http://localhost:5105
+
+GET {{MedPoint.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
