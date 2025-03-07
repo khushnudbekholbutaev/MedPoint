@@ -173,3 +173,4 @@ C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Api\obj\Debug\net8.0\MedPoint.Api.pdb
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Api\obj\Debug\net8.0\MedPoint.Api.genruntimeconfig.cache
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Api\obj\Debug\net8.0\ref\MedPoint.Api.dll
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Api\obj\Debug\net8.0\MedPoint.Api.sourcelink.json
