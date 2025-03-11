@@ -7,16 +7,52 @@
       "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\controllers\\catalogcontrollers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\controllers\\catalogcontrollers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\medpoint.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\medpoint.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Pharmacy\\src\\Ilmhub.Certificates.Api\\obj\\.EntityFrameworkCore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Ilmhub.Certificates.Api\\obj\\.EntityFrameworkCore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\extensions\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\extensions\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\extensions\\httpcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\extensions\\httpcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\logs\\restapilog202502191628.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\logs\\restapilog202502191628.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{752E4ED4-5CDF-4B6A-B7C5-F223D35F4FDF}|src\\MedPoint.Data\\MedPoint.Data.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{752E4ED4-5CDF-4B6A-B7C5-F223D35F4FDF}|src\\MedPoint.Data\\MedPoint.Data.csproj|solutionrelative:src\\medpoint.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\services\\bannerservices\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\services\\bannerservices\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752E4ED4-5CDF-4B6A-B7C5-F223D35F4FDF}|src\\MedPoint.Data\\MedPoint.Data.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.data\\medpoint.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{752E4ED4-5CDF-4B6A-B7C5-F223D35F4FDF}|src\\MedPoint.Data\\MedPoint.Data.csproj|solutionrelative:src\\medpoint.data\\medpoint.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\controllers\\catalogcontrollers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\controllers\\catalogcontrollers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,10 +143,6 @@
       "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\services\\cartitemservices\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\services\\bannerservices\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\services\\bannerservices\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\services\\authservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\services\\authservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -131,10 +163,6 @@
       "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\dtos\\orderdetails\\orderdetailforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\dtos\\payments\\paymentforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\dtos\\payments\\paymentforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -153,10 +181,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\dtos\\medications\\medicationforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\dtos\\medications\\medicationforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\medpoint.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\medpoint.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\dtos\\categories\\categoryforresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -215,20 +239,12 @@
       "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\dtos\\favorites\\favoriteforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{752E4ED4-5CDF-4B6A-B7C5-F223D35F4FDF}|src\\MedPoint.Data\\MedPoint.Data.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.data\\medpoint.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{752E4ED4-5CDF-4B6A-B7C5-F223D35F4FDF}|src\\MedPoint.Data\\MedPoint.Data.csproj|solutionrelative:src\\medpoint.data\\medpoint.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\configurations\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\configurations\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\configurations\\paginationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\configurations\\paginationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\controllers\\usercontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -241,10 +257,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.api\\controllers\\authcontrollers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28997D82-2DFC-4378-9BA9-091297889AB5}|src\\MedPoint.Api\\MedPoint.Api.csproj|solutionrelative:src\\medpoint.api\\controllers\\authcontrollers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\extensions\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\extensions\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\interfaces\\iauthservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -269,10 +281,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\medpoint.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\medpoint.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\extensions\\httpcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|solutionrelative:src\\medpoint.service\\extensions\\httpcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{823D087C-0439-4699-956E-A6E893718C68}|src\\MedPoint.Service\\MedPoint.Service.csproj|c:\\users\\hp\\desktop\\pharmacy\\src\\medpoint.service\\dtos\\medications\\medicationforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -357,63 +365,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CatalogController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\CatalogControllers\\CatalogController.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\CatalogControllers\\CatalogController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\CatalogControllers\\CatalogController.cs",
-              "RelativeToolTip": "src\\MedPoint.Api\\Controllers\\CatalogControllers\\CatalogController.cs",
+              "DocumentIndex": 2,
+              "Title": ".EntityFrameworkCore.targets",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\Ilmhub.Certificates.Api\\obj\\.EntityFrameworkCore.targets",
+              "RelativeDocumentMoniker": "src\\Ilmhub.Certificates.Api\\obj\\.EntityFrameworkCore.targets",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\Ilmhub.Certificates.Api\\obj\\.EntityFrameworkCore.targets",
+              "RelativeToolTip": "src\\Ilmhub.Certificates.Api\\obj\\.EntityFrameworkCore.targets",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:54:19.766Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-11T14:15:38.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Categories\\Category.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\Categories\\Category.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Categories\\Category.cs",
-              "RelativeToolTip": "src\\MedPoint.Domain\\Entities\\Categories\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:42:43.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Auditable.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Commons\\Auditable.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Commons\\Auditable.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Commons\\Auditable.cs",
-              "RelativeToolTip": "src\\MedPoint.Domain\\Commons\\Auditable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:58:08.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServiceExtension.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Extensions\\ServiceExtension.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Api\\Extensions\\ServiceExtension.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Extensions\\ServiceExtension.cs",
-              "RelativeToolTip": "src\\MedPoint.Api\\Extensions\\ServiceExtension.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAowFQAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:05:16.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Data\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Data\\Repositories\\Repository.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Data\\Repositories\\Repository.cs",
               "RelativeToolTip": "src\\MedPoint.Data\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywB4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:56:55.264Z"
+              "WhenOpened": "2025-02-03T16:56:55.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\MedPoint.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\appsettings.json",
+              "RelativeToolTip": "src\\MedPoint.Api\\appsettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T16:40:57.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Extensions\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Service\\Extensions\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Extensions\\PasswordHelper.cs",
+              "RelativeToolTip": "src\\MedPoint.Service\\Extensions\\PasswordHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:17:35.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedPoint.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\MedPoint.Api.csproj",
+              "RelativeDocumentMoniker": "src\\MedPoint.Api\\MedPoint.Api.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\MedPoint.Api.csproj",
+              "RelativeToolTip": "src\\MedPoint.Api\\MedPoint.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T16:24:34.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -430,19 +443,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\MedPoint.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\appsettings.json",
-              "RelativeToolTip": "src\\MedPoint.Api\\appsettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T16:40:57.878Z"
+              "DocumentIndex": 7,
+              "Title": "RestApiLog202502191628.log",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Logs\\RestApiLog202502191628.log",
+              "RelativeDocumentMoniker": "src\\MedPoint.Api\\Logs\\RestApiLog202502191628.log",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Logs\\RestApiLog202502191628.log",
+              "RelativeToolTip": "src\\MedPoint.Api\\Logs\\RestApiLog202502191628.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-09T22:56:16.777Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "HttpContextHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Extensions\\HttpContextHelper.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Service\\Extensions\\HttpContextHelper.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Extensions\\HttpContextHelper.cs",
+              "RelativeToolTip": "src\\MedPoint.Service\\Extensions\\HttpContextHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:32:41.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedPoint.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Data\\MedPoint.Data.csproj",
+              "RelativeDocumentMoniker": "src\\MedPoint.Data\\MedPoint.Data.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Data\\MedPoint.Data.csproj",
+              "RelativeToolTip": "src\\MedPoint.Data\\MedPoint.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T16:15:22.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Catalog.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Catalogs\\Catalog.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\Catalogs\\Catalog.cs",
@@ -454,7 +494,94 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionHandlerMiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Middlewares\\ExceptionHandlerMiddleWare.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Api\\Middlewares\\ExceptionHandlerMiddleWare.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Middlewares\\ExceptionHandlerMiddleWare.cs",
+              "RelativeToolTip": "src\\MedPoint.Api\\Middlewares\\ExceptionHandlerMiddleWare.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:48:42.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Service\\Mappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "src\\MedPoint.Service\\Mappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:36:32.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BannerService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\BannerServices\\BannerService.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\BannerServices\\BannerService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\BannerServices\\BannerService.cs",
+              "RelativeToolTip": "src\\MedPoint.Service\\Services\\BannerServices\\BannerService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowFMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:46:26.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Api\\Extensions\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "src\\MedPoint.Api\\Extensions\\ServiceExtension.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAowFQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:05:16.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Auditable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Commons\\Auditable.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Commons\\Auditable.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Commons\\Auditable.cs",
+              "RelativeToolTip": "src\\MedPoint.Domain\\Commons\\Auditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:58:08.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Categories\\Category.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\Categories\\Category.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Categories\\Category.cs",
+              "RelativeToolTip": "src\\MedPoint.Domain\\Entities\\Categories\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:42:43.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\CatalogControllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\CatalogControllers\\CatalogController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\CatalogControllers\\CatalogController.cs",
+              "RelativeToolTip": "src\\MedPoint.Api\\Controllers\\CatalogControllers\\CatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:54:19.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "MedicationForUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Medications\\MedicationForUpdateDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Medications\\MedicationForUpdateDto.cs",
@@ -466,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "OrderDetailService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\OrderDetailServices\\OrderDetailService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\OrderDetailServices\\OrderDetailService.cs",
@@ -478,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Data\\DbContexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Data\\DbContexts\\AppDbContext.cs",
@@ -490,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "OrderDetailForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\OrderDetails\\OrderDetailForCreationDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\OrderDetails\\OrderDetailForCreationDto.cs",
@@ -502,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Payments\\Payment.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\Payments\\Payment.cs",
@@ -514,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "OrderForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Orders\\OrderForCreationDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Orders\\OrderForCreationDto.cs",
@@ -526,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\OrderControllers\\OrderController.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\OrderControllers\\OrderController.cs",
@@ -538,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "MedicationController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\MedicationControllers\\MedicationController.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\MedicationControllers\\MedicationController.cs",
@@ -550,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "CartItemController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\CartItemControllers\\CartItemController.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\CartItemControllers\\CartItemController.cs",
@@ -562,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Interfaces\\IOrderServices\\IOrderService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Interfaces\\IOrderServices\\IOrderService.cs",
@@ -574,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Orders\\Order.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\Orders\\Order.cs",
@@ -586,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "PaymentService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\PaymentServices\\PaymentService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\PaymentServices\\PaymentService.cs",
@@ -598,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\OrderServices\\OrderService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\OrderServices\\OrderService.cs",
@@ -610,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "MedicationService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\MedicationServices\\MedicationService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\MedicationServices\\MedicationService.cs",
@@ -622,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "FavoriteService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\FavoriteServices\\FavoriteService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\FavoriteServices\\FavoriteService.cs",
@@ -634,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\CategoryServices\\CategoryService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\CategoryServices\\CategoryService.cs",
@@ -646,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "CatalogService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\CatalogServices\\CatalogService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\CatalogServices\\CatalogService.cs",
@@ -658,7 +785,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "CartItemService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\CartItemServices\\CartItemService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\CartItemServices\\CartItemService.cs",
@@ -670,19 +797,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BannerService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\BannerServices\\BannerService.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\BannerServices\\BannerService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\BannerServices\\BannerService.cs",
-              "RelativeToolTip": "src\\MedPoint.Service\\Services\\BannerServices\\BannerService.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAowD4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T08:46:26.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\AuthServices\\AuthService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\AuthServices\\AuthService.cs",
@@ -694,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\CartItems\\CartItem.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\CartItems\\CartItem.cs",
@@ -706,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\OrderDetails\\OrderDetail.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\OrderDetails\\OrderDetail.cs",
@@ -718,7 +833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "OrderForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Orders\\OrderForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Orders\\OrderForResultDto.cs",
@@ -730,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "OrderDetailForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\OrderDetails\\OrderDetailForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\OrderDetails\\OrderDetailForResultDto.cs",
@@ -742,19 +857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Mappers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Service\\Mappers\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Mappers\\MappingProfile.cs",
-              "RelativeToolTip": "src\\MedPoint.Service\\Mappers\\MappingProfile.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:36:32.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "PaymentForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Payments\\PaymentForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Payments\\PaymentForResultDto.cs",
@@ -766,7 +869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "PaymentForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Payments\\PaymentForCreationDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Payments\\PaymentForCreationDto.cs",
@@ -778,7 +881,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "Medication.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Medications\\Medication.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\Medications\\Medication.cs",
@@ -790,7 +893,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "OrderDetailController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\OrderDetailControllers\\OrderDetailController.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\OrderDetailControllers\\OrderDetailController.cs",
@@ -802,7 +905,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "MedicationForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Medications\\MedicationForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Medications\\MedicationForResultDto.cs",
@@ -814,19 +917,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "MedPoint.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\MedPoint.Api.csproj",
-              "RelativeDocumentMoniker": "src\\MedPoint.Api\\MedPoint.Api.csproj",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\MedPoint.Api.csproj",
-              "RelativeToolTip": "src\\MedPoint.Api\\MedPoint.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T16:24:34.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "CategoryForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Categories\\CategoryForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Categories\\CategoryForResultDto.cs",
@@ -838,7 +929,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\PaymentControllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\PaymentControllers\\PaymentController.cs",
@@ -850,7 +941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "IPaymentService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Interfaces\\IPaymentServices\\IPaymentService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Interfaces\\IPaymentServices\\IPaymentService.cs",
@@ -862,7 +953,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Users\\User.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\Users\\User.cs",
@@ -874,7 +965,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "Banner.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Banners\\Banner.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\Banners\\Banner.cs",
@@ -886,7 +977,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "Favorite.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Entities\\Favorites\\Favorite.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Entities\\Favorites\\Favorite.cs",
@@ -898,7 +989,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "CartItemForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\CartItems\\CartItemForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\CartItems\\CartItemForResultDto.cs",
@@ -910,7 +1001,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Services\\UserServices\\UserService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Services\\UserServices\\UserService.cs",
@@ -922,7 +1013,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "IMedicationService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Interfaces\\IMedicationServices\\IMedicationService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Interfaces\\IMedicationServices\\IMedicationService.cs",
@@ -934,7 +1025,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "CollectionExtension.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Extensions\\CollectionExtension.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Extensions\\CollectionExtension.cs",
@@ -946,7 +1037,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "FavoriteController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\FavoriteControllers\\FavoriteController.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\FavoriteControllers\\FavoriteController.cs",
@@ -958,7 +1049,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 56,
               "Title": "IFavoriteService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Interfaces\\IFavoriteServices\\IFavoriteService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Interfaces\\IFavoriteServices\\IFavoriteService.cs",
@@ -970,7 +1061,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 57,
               "Title": "FavoriteForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Favorites\\FavoriteForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Favorites\\FavoriteForResultDto.cs",
@@ -982,7 +1073,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 58,
               "Title": "FavoriteForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Favorites\\FavoriteForCreationDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Favorites\\FavoriteForCreationDto.cs",
@@ -994,7 +1085,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 59,
               "Title": "PaginationParams.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Configurations\\PaginationParams.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Configurations\\PaginationParams.cs",
@@ -1006,19 +1097,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "MedPoint.Data.csproj",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Data\\MedPoint.Data.csproj",
-              "RelativeDocumentMoniker": "src\\MedPoint.Data\\MedPoint.Data.csproj",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Data\\MedPoint.Data.csproj",
-              "RelativeToolTip": "src\\MedPoint.Data\\MedPoint.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T16:15:22.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 60,
               "Title": "PaginationConfig.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Configurations\\PaginationConfig.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Configurations\\PaginationConfig.cs",
@@ -1030,7 +1109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 61,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\UserControllers\\UserController.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\UserControllers\\UserController.cs",
@@ -1042,19 +1121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "ExceptionHandlerMiddleWare.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Middlewares\\ExceptionHandlerMiddleWare.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Api\\Middlewares\\ExceptionHandlerMiddleWare.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Middlewares\\ExceptionHandlerMiddleWare.cs",
-              "RelativeToolTip": "src\\MedPoint.Api\\Middlewares\\ExceptionHandlerMiddleWare.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowBgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T08:48:42.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 62,
               "Title": "UserForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Users\\UserForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Users\\UserForResultDto.cs",
@@ -1066,7 +1133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 63,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\AuthControllers\\AuthController.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\AuthControllers\\AuthController.cs",
@@ -1078,7 +1145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Interfaces\\IAuthServices\\IAuthService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Interfaces\\IAuthServices\\IAuthService.cs",
@@ -1090,19 +1157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "PasswordHelper.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Extensions\\PasswordHelper.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Service\\Extensions\\PasswordHelper.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Extensions\\PasswordHelper.cs",
-              "RelativeToolTip": "src\\MedPoint.Service\\Extensions\\PasswordHelper.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T18:17:35.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "MedPointException.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Exceptions\\MedPointException.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Exceptions\\MedPointException.cs",
@@ -1114,7 +1169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "UserForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Users\\UserForCreationDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Users\\UserForCreationDto.cs",
@@ -1126,7 +1181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "LoginForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Login\\LoginForCreationDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Login\\LoginForCreationDto.cs",
@@ -1138,7 +1193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "LoginForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Login\\LoginForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Login\\LoginForResultDto.cs",
@@ -1150,7 +1205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "MedPoint.Service.csproj",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\MedPoint.Service.csproj",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\MedPoint.Service.csproj",
@@ -1158,23 +1213,12 @@
               "RelativeToolTip": "src\\MedPoint.Service\\MedPoint.Service.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T16:19:51.971Z"
+              "WhenOpened": "2025-02-03T16:19:51.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "HttpContextHelper.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Extensions\\HttpContextHelper.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Service\\Extensions\\HttpContextHelper.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Extensions\\HttpContextHelper.cs",
-              "RelativeToolTip": "src\\MedPoint.Service\\Extensions\\HttpContextHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:32:41.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "MedicationForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Medications\\MedicationForCreationDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Medications\\MedicationForCreationDto.cs",
@@ -1186,7 +1230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "PrescriptionType.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\Enums\\PrescriptionType.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\Enums\\PrescriptionType.cs",
@@ -1198,7 +1242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Properties\\launchSettings.json",
@@ -1210,7 +1254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "BannerForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Banners\\BannerForCreationDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Banners\\BannerForCreationDto.cs",
@@ -1222,7 +1266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "UserValidation.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Validations\\UserValidation.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Validations\\UserValidation.cs",
@@ -1234,7 +1278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "BannerForResultDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Banners\\BannerForResultDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Banners\\BannerForResultDto.cs",
@@ -1246,7 +1290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "BannerController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\BannerControllers\\BannerController.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\BannerControllers\\BannerController.cs",
@@ -1258,7 +1302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "BannerForUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Banners\\BannerForUpdateDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Banners\\BannerForUpdateDto.cs",
@@ -1270,7 +1314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "IBannerService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Interfaces\\IBannerServices\\IBannerService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Interfaces\\IBannerServices\\IBannerService.cs",
@@ -1282,7 +1326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "ActionMethodExecutor.cs",
               "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
               "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
@@ -1294,7 +1338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "CategoryForUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Categories\\CategoryForUpdateDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Categories\\CategoryForUpdateDto.cs",
@@ -1306,7 +1350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 81,
               "Title": "CategoryForCreationDto.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Dtos\\Categories\\CategoryForCreationDto.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Dtos\\Categories\\CategoryForCreationDto.cs",
@@ -1318,7 +1362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 82,
               "Title": "WebEnvironmentHost.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Helpers\\WebEnvironmentHost.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Helpers\\WebEnvironmentHost.cs",
@@ -1330,7 +1374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 83,
               "Title": "MedPoint.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Domain\\MedPoint.Domain.csproj",
               "RelativeDocumentMoniker": "src\\MedPoint.Domain\\MedPoint.Domain.csproj",
@@ -1338,11 +1382,12 @@
               "RelativeToolTip": "src\\MedPoint.Domain\\MedPoint.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T17:14:37.328Z"
+              "WhenOpened": "2025-02-03T17:14:37.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 84,
               "Title": "ICatalogService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Service\\Interfaces\\ICatalogServices\\ICatalogService.cs",
               "RelativeDocumentMoniker": "src\\MedPoint.Service\\Interfaces\\ICatalogServices\\ICatalogService.cs",
