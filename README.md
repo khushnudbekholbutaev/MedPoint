@@ -13,3 +13,5 @@ ASP.NET Core va Vue.js texnologiyalarida ishlab chiqilgan.
 
 ### **1. Backend (C# / .NET)**
 ```sh
+cd src/MedPoint.Api
+dotnet run
