@@ -356,7 +356,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -372,19 +372,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "src\\MedPoint.Api\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:51:19.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\appsettings.json",
@@ -393,8 +380,7 @@
               "RelativeToolTip": "src\\MedPoint.Api\\appsettings.json",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T16:40:57.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:40:57.878Z"
             },
             {
               "$type": "Document",
@@ -406,8 +392,7 @@
               "RelativeToolTip": "src\\MedPoint.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:17:15.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:17:15.711Z"
             },
             {
               "$type": "Document",
@@ -419,8 +404,7 @@
               "RelativeToolTip": "src\\MedPoint.Service\\Services\\AuthServices\\AuthService.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAywDcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T18:19:26.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T18:19:26.514Z"
             },
             {
               "$type": "Document",
@@ -432,8 +416,7 @@
               "RelativeToolTip": "src\\MedPoint.Api\\Controllers\\CatalogControllers\\CatalogController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:54:19.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:54:19.766Z"
             },
             {
               "$type": "Document",
@@ -447,6 +430,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T17:05:16.412Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "src\\MedPoint.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Pharmacy\\src\\MedPoint.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "src\\MedPoint.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:51:19.393Z"
             },
             {
               "$type": "Document",
