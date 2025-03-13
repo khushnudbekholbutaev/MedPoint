@@ -43,7 +43,7 @@ var app = builder.Build();
 
 WebEnvironmentHost.WebRootPath = Path.GetFullPath("wwwroot");
 
-if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
+if (true)
 {
     app.UseSwagger();
     app.UseSwaggerUI();
