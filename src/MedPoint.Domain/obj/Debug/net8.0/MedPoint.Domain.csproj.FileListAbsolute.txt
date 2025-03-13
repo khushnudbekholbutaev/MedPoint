@@ -9,3 +9,4 @@ C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domai
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Domain\obj\Debug\net8.0\refint\MedPoint.Domain.dll
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.pdb
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Domain\obj\Debug\net8.0\ref\MedPoint.Domain.dll
+C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.sourcelink.json

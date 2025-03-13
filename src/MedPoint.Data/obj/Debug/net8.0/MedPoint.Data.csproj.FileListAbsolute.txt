@@ -15,3 +15,4 @@ C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Data\obj\Debug\net8.0\refint\MedPoint.
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Data\obj\Debug\net8.0\MedPoint.Data.pdb
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Data\obj\Debug\net8.0\MedPoint.Data.genruntimeconfig.cache
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Data\obj\Debug\net8.0\ref\MedPoint.Data.dll
+C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Data\obj\Debug\net8.0\MedPoint.Data.sourcelink.json

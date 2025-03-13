@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedPoint.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+467cec5e24f2b93b261d566b8e0eebd706c2d465")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b924d00c014515f655f7c8f106b8e9d0cddd8609")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedPoint.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedPoint.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

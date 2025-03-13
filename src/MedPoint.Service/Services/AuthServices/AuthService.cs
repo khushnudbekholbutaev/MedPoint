@@ -54,7 +54,8 @@ namespace MedPoint.Service.Services.AuthServices
                     new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
                     new Claim(ClaimTypes.Role, user.Status.ToString())
                 }),
-                Audience = configuration["JWT:Audience"] ?? throw new ArgumentNullException("JWT:Audience is missing"),
+                Audience = configuration["JWT:Audience"]
+                ?? throw new ArgumentNullException("JWT:Audience is missing"),
                 Issuer = configuration["JWT:Issuer"] ?? throw new ArgumentNullException("JWT:Issuer is missing"),
                 IssuedAt = DateTime.UtcNow,
                 Expires = DateTime.UtcNow.AddMinutes(expireMinutes),

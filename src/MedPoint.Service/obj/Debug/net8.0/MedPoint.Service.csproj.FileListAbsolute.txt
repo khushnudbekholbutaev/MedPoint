@@ -15,3 +15,4 @@ C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Service\obj\Debug\net8.0\MedPoint.Serv
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Service\obj\Debug\net8.0\refint\MedPoint.Service.dll
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Service\obj\Debug\net8.0\MedPoint.Service.pdb
 C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Service\obj\Debug\net8.0\ref\MedPoint.Service.dll
+C:\Users\HP\Desktop\Pharmacy\src\MedPoint.Service\obj\Debug\net8.0\MedPoint.Service.sourcelink.json
