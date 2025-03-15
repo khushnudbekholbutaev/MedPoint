@@ -11,7 +11,7 @@ env:
   AZURE_WEBAPP_PACKAGE_PATH: "./publish"
   DOTNET_VERSION: "8.0.x"
   SOLUTION_PATH: "MedPoint.sln"
-  API_PROJECT_PATH: "MedPoint.Api/MedPoint.Api.csproj"
+  API_PROJECT_PATH: "src/MedPoint.Api/MedPoint.Api.csproj"
 
 jobs:
   build-and-test:
