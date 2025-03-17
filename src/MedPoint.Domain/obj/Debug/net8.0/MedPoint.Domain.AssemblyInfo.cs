@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedPoint.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9109274e8eca7b3daf6ade2937bf2ce3a20f23d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a6cd3edbad90956a1ebb22cd40fdebc3b00c752")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedPoint.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedPoint.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
