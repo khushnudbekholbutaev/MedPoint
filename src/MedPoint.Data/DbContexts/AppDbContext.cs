@@ -32,7 +32,7 @@ namespace MedPoint.Data.DbContexts
                 .HasMany(u => u.Orders)
                 .WithOne(o => o.Users) 
                 .HasForeignKey(o => o.UserId)
-                .OnDelete(DeleteBehavior.Cascade);
+                .OnDelete(DeleteBehavior.Restrict);
 
             builder.Entity<Order>()
                 .HasMany(o => o.Details)  
@@ -44,7 +44,19 @@ namespace MedPoint.Data.DbContexts
                 .HasMany(m => m.Details)
                 .WithOne(od => od.Medication)
                 .HasForeignKey(od => od.MedicationId)
-                .OnDelete(DeleteBehavior.Cascade);
+                .OnDelete(DeleteBehavior.Restrict);
+
+            builder.Entity<Banner>()
+                .HasOne(c => c.Category)
+                .WithMany(m => m.Banners)
+                .HasForeignKey(b => b.CategoryId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            builder.Entity<Banner>()
+                .HasOne(b => b.Medication)
+                .WithMany(m => m.Banners)
+                .HasForeignKey(b => b.MedicationId)
+                .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

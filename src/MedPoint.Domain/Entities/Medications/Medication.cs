@@ -1,4 +1,5 @@
 ﻿using MedPoint.Domain.Commons;
+using MedPoint.Domain.Entities.Banners;
 using MedPoint.Domain.Entities.OrderDetails;
 using MedPoint.Domain.Enums;
 
@@ -17,6 +18,7 @@ namespace MedPoint.Domain.Entities.Medications
         public MedicationStatus Status { get; set; }
         public PrescriptionType Type { get; set; }
         public ICollection<OrderDetail> Details { get; set; }
+        public ICollection<Banner> Banners { get; set; }
     }
 
 }

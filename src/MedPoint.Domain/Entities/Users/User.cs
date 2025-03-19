@@ -20,7 +20,7 @@ namespace MedPoint.Domain.Entities.Users
         public int Age { get; set; }
         public string Salt { get; set; }
         public string Address { get; set; }
-        public UserStatus Status { get; set; } = UserStatus.Customer;
+        public UserStatus Status { get; set; }
         public ICollection<Order> Orders { get; set; }
     }
 }

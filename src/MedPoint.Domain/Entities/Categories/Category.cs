@@ -1,4 +1,5 @@
 ﻿using MedPoint.Domain.Commons;
+using MedPoint.Domain.Entities.Banners;
 using MedPoint.Domain.Entities.Medications;
 using System;
 using System.Collections.Generic;
@@ -13,5 +14,6 @@ namespace MedPoint.Domain.Entities.Categories
         public string CategoryName { get; set; }
         public int CatalogId { get; set; }
         public ICollection<Medication> Medications { get; set; }
+        public ICollection<Banner> Banners { get; set; }
     }
 }

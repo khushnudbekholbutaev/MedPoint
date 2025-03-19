@@ -15,8 +15,8 @@ namespace MedPoint.Domain.Entities.Banners
         public string Description { get; set; }
         public string ImageUrl { get; set; }
 
-        public int CategoryId { get; set; }
-        public int MedicationId { get; set; }
+        public int? CategoryId { get; set; }
+        public int? MedicationId { get; set; }
 
         public Category Category { get; set; }
         public Medication Medication { get; set; }

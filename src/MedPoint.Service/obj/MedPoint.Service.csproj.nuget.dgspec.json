@@ -68,11 +68,11 @@
               "target": "Package",
               "version": "[9.0.1, )"
             },
-            "Microsoft.Extensions.Hosting.Abstractions": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.1, )"
             },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+            "Microsoft.Extensions.Hosting.Abstractions": {
               "target": "Package",
               "version": "[9.0.1, )"
             }

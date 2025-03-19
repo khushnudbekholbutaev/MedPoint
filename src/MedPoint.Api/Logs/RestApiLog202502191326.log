@@ -1,3 +1,0 @@
-2025-02-19 13:26:41.240 +05:00 [Error] [Microsoft.EntityFrameworkCore.Database.Connection] [{ Id: 20004, Name: "Microsoft.EntityFrameworkCore.Database.Connection.ConnectionError" }] An error occurred using the connection to database '"MPData"' on server '"tcp://localhost:5432"'.
-
-

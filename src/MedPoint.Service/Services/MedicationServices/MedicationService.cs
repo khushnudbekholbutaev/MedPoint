@@ -27,7 +27,7 @@ namespace MedPoint.Service.Services.MedicationServices
         public async Task<IEnumerable<MedicationForResultDto>> GetByNameAsync(string name, PaginationParams @params, CancellationToken cancellationToken = default)
         {
             var medications = await medicationRepository.SelectAll()
-                 .Where(m => EF.Functions.ILike(m.MedicationName, $"%{name}%"))
+                 .Where(m => EF.Functions.Like(m.MedicationName, $"%{name}%"))
                  .ToPagedList(@params)
                  .ToListAsync(cancellationToken);
 

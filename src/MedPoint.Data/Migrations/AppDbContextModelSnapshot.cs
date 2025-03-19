@@ -30,7 +30,7 @@ namespace MedPoint.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int?>("CategoryId")
                         .HasColumnType("int");
 
                     b.Property<DateTimeOffset>("CreatedAt")
@@ -44,7 +44,7 @@ namespace MedPoint.Data.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("MedicationId")
+                    b.Property<int?>("MedicationId")
                         .HasColumnType("int");
 
                     b.Property<string>("Title")
@@ -391,16 +391,14 @@ namespace MedPoint.Data.Migrations
             modelBuilder.Entity("MedPoint.Domain.Entities.Banners.Banner", b =>
                 {
                     b.HasOne("MedPoint.Domain.Entities.Categories.Category", "Category")
-                        .WithMany()
+                        .WithMany("Banners")
                         .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.HasOne("MedPoint.Domain.Entities.Medications.Medication", "Medication")
-                        .WithMany()
+                        .WithMany("Banners")
                         .HasForeignKey("MedicationId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("Category");
 
@@ -468,7 +466,7 @@ namespace MedPoint.Data.Migrations
                     b.HasOne("MedPoint.Domain.Entities.Medications.Medication", "Medication")
                         .WithMany("Details")
                         .HasForeignKey("MedicationId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("MedPoint.Domain.Entities.Orders.Order", "Order")
@@ -487,7 +485,7 @@ namespace MedPoint.Data.Migrations
                     b.HasOne("MedPoint.Domain.Entities.Users.User", "Users")
                         .WithMany("Orders")
                         .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Users");
@@ -511,11 +509,15 @@ namespace MedPoint.Data.Migrations
 
             modelBuilder.Entity("MedPoint.Domain.Entities.Categories.Category", b =>
                 {
+                    b.Navigation("Banners");
+
                     b.Navigation("Medications");
                 });
 
             modelBuilder.Entity("MedPoint.Domain.Entities.Medications.Medication", b =>
                 {
+                    b.Navigation("Banners");
+
                     b.Navigation("Details");
                 });
 
