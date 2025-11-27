@@ -1,0 +1,24 @@
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+USER $APP_UID
+WORKDIR /app
+
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+ARG BUILD_CONFIGURATION=Release
+WORKDIR /src
+COPY ["src/MedPoint.Api/MedPoint.Api.csproj", "src/MedPoint.Api/"]
+COPY ["src/MedPoint.Service/MedPoint.Service.csproj", "src/MedPoint.Service/"]
+COPY ["src/MedPoint.Data/MedPoint.Data.csproj", "src/MedPoint.Data/"]
+COPY ["src/MedPoint.Domain/MedPoint.Domain.csproj", "src/MedPoint.Domain/"]
+RUN dotnet restore "./src/MedPoint.Api/MedPoint.Api.csproj"
+COPY . .
+WORKDIR "/src/src/MedPoint.Api"
+RUN dotnet build "./MedPoint.Api.csproj" -c $BUILD_CONFIGURATION -o /app/build
+
+FROM build AS publish
+ARG BUILD_CONFIGURATION=Release
+RUN dotnet publish "./MedPoint.Api.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "MedPoint.Api.dll"]

@@ -1,0 +1,30 @@
+name: medpoint-compose
+
+services:
+  medpoint_api:
+    container_name: medpoint.api
+    build:
+      context: .
+      dockerfile: src/MedPoint.Api/Dockerfile
+    ports: 
+        - "8081:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:17
+    container_name: medpoint.db
+    environment:
+      POSTGRES_USER: medpoint
+      POSTGRES_PASSWORD: medpoint
+      POSTGRES_DB: medpointdb
+    expose:
+      - "5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+      pgdata:
+        driver: local

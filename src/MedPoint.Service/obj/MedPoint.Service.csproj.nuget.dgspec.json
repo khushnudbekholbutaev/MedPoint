@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Service\\MedPoint.Service.csproj": {}
+    "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Service\\MedPoint.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj": {
+    "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj",
+        "projectUniqueName": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj",
         "projectName": "MedPoint.Data",
-        "projectPath": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Data\\obj\\",
+        "projectPath": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj",
+        "packagesPath": "C:\\Users\\xushn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xushn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj"
+              "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj": {
+                "projectPath": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj"
               }
             }
           }
@@ -48,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -68,11 +69,11 @@
               "target": "Package",
               "version": "[9.0.1, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.Extensions.Hosting.Abstractions": {
               "target": "Package",
               "version": "[9.0.1, )"
             },
-            "Microsoft.Extensions.Hosting.Abstractions": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[9.0.1, )"
             }
@@ -93,24 +94,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj": {
+    "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj",
         "projectName": "MedPoint.Domain",
-        "projectPath": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Domain\\obj\\",
+        "projectPath": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj",
+        "packagesPath": "C:\\Users\\xushn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xushn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,6 +120,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -137,7 +139,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -158,24 +160,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Service\\MedPoint.Service.csproj": {
+    "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Service\\MedPoint.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Service\\MedPoint.Service.csproj",
+        "projectUniqueName": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Service\\MedPoint.Service.csproj",
         "projectName": "MedPoint.Service",
-        "projectPath": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Service\\MedPoint.Service.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Service\\obj\\",
+        "projectPath": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Service\\MedPoint.Service.csproj",
+        "packagesPath": "C:\\Users\\xushn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xushn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -184,17 +186,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj"
+              "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj": {
+                "projectPath": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Data\\MedPoint.Data.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj"
+              "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj": {
+                "projectPath": "C:\\Users\\xushn\\OneDrive\\Desktop\\MedPoint\\src\\MedPoint.Domain\\MedPoint.Domain.csproj"
               }
             }
           }
@@ -209,7 +212,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -256,7 +259,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -22,3 +22,15 @@ C:\Users\HP\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domai
 C:\Users\HP\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\refint\MedPoint.Domain.dll
 C:\Users\HP\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.pdb
 C:\Users\HP\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\ref\MedPoint.Domain.dll
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\bin\Debug\net8.0\MedPoint.Domain.deps.json
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\bin\Debug\net8.0\MedPoint.Domain.dll
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\bin\Debug\net8.0\MedPoint.Domain.pdb
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.AssemblyInfoInputs.cache
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.AssemblyInfo.cs
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.csproj.CoreCompileInputs.cache
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.sourcelink.json
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.dll
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\refint\MedPoint.Domain.dll
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\MedPoint.Domain.pdb
+C:\Users\xushn\OneDrive\Desktop\MedPoint\src\MedPoint.Domain\obj\Debug\net8.0\ref\MedPoint.Domain.dll
